@@ -1,4 +1,4 @@
-# MIE1513-MIE451_Decision_Support_System-Projct
+# MIE1513-MIE451_Decision_Support_System-Projects
 Full-mark MIE1513-MIE451 Assignments
 
 ## 1. Python warn up<br/>
