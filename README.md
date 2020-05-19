@@ -1,5 +1,4 @@
-# MIE1513-MIE451_Decision_Support_System-Projects
-Full-mark MIE1513-MIE451 Assignments
+# Decision_Support_System-Projects
 
 ## 1. Python warn up<br/>
 Warmup assignment to refresh basic Python techniques (could be done in one line of each question).
